@@ -1,0 +1,13 @@
+body {
+    background-color: #f8f9fa;
+}
+
+#item-input {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+#grocery-list {
+    max-width: 500px;
+    margin: 0 auto;
+}
